@@ -1,4 +1,4 @@
-# applause/like-wordpress plugin
+# Applause/like-wordpress plugin
 
 A learning project to add like button to each post for logged in users. (wordpress plugin)
 
