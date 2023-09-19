@@ -1,7 +1,7 @@
 <?php
 /*
 @package    like-this-post
-@author     ahmet ALTUN
+@author     Vasu Gupta
 @link       https://github.com/ahmetaltun
 
 Plugin Name: Like This Post
